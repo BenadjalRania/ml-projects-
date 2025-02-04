@@ -4,7 +4,7 @@ This repository showcases my machine learning projects.
 ## Full Name: Benadjal Rania
 
 ## 🔹 Project 1: [Gastrointestinal-Disease-Detection]
-**Description**:  leverages Convolutional Neural Networks (CNN) and k-Nearest Neighbors (KNN) models to detect gastrointestinal diseases based on input data (kvasir).  
+**Description**:  leverages Convolutional Neural Networks (CNN) and k-Nearest Neighbors (KNN) models to detect gastrointestinal diseases based on kvasir dataset.  
 - 📌 **Repository**: ([GitHub Repo Link](https://github.com/BenadjalRania/Gastrointestinal-Disease-Detection))
 
 ## 🔹 Project 2: [PythonFraud Detection]
