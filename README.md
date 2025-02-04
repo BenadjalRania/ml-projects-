@@ -8,6 +8,7 @@ Benadjal Rania
 **Description**:  leverages Convolutional Neural Networks (CNN) and k-Nearest Neighbors (KNN) models to detect gastrointestinal diseases based on input data (kvasir).  
 - 📌 **Repository**: ([GitHub Repo Link](https://github.com/BenadjalRania/Gastrointestinal-Disease-Detection))
 
-## 🔹 Project 2: [Project Name](GitHub Repo Link)
-**Description**: Briefly describe the project's goal, dataset, and ML techniques used.  
-- 📌 **Repository**: [GitHub Link](GitHub Repo Link)
+## 🔹 Project 2: [PythonFraud Detection]
+**Description**: credit fraud detector which is a model or system that uses machine learning algorithms to detect fraudulent credit card transactions.
+we worked on this in team with my colleague: abdellahHergouma.
+- 📌 **Repository**: ([GitHub Repo Link](https://github.com/BenadjalRania/PythonFraud))
