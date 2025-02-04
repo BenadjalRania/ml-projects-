@@ -1,8 +1,7 @@
 # Machine Learning Projects Portfolio
 
 This repository showcases my machine learning projects.
-# Full Name:
-Benadjal Rania
+## Full Name: Benadjal Rania
 
 ## 🔹 Project 1: [Gastrointestinal-Disease-Detection]
 **Description**:  leverages Convolutional Neural Networks (CNN) and k-Nearest Neighbors (KNN) models to detect gastrointestinal diseases based on input data (kvasir).  
